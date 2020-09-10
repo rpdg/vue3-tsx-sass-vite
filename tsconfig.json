@@ -1,0 +1,14 @@
+﻿{
+	"include": ["./**/*.ts"],
+	"compilerOptions": {
+		"jsx": "react",
+		"target": "esnext",
+		"module": "esnext",
+		"sourceMap": true,
+		"strict": true,
+		"noUnusedLocals": true,
+		"noImplicitReturns": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true
+	}
+}
